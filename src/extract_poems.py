@@ -4,7 +4,7 @@ import os
 input_dir = "data/raw"
 output_path = "data/processed/persian_poems.txt"
 # Characters to remove from the corpus
-chars_to_remove = "ًٌٍَُِّٔ!()*.:«»"
+chars_to_remove = "ًٌٍَُِّٔ!()*«»"
 # Translation table for deleting unwanted characters
 remove_table = str.maketrans("", "", chars_to_remove)
 # List all JSON files in raw directory

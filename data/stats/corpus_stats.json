@@ -1,9 +1,11 @@
 {
-  "total_characters": 678292,
-  "unique_characters": 43,
+  "total_characters": 678299,
+  "unique_characters": 45,
   "unique_char_list": [
     "\n",
     " ",
+    ".",
+    ":",
     "،",
     "؟",
     "ء",
@@ -47,6 +49,6 @@
     "‌"
   ],
   "total_lines": 32571,
-  "non_empty_lines": 20956,
-  "total_poems": 1133
+  "non_empty_lines": 20958,
+  "total_poems": 1132
 }
