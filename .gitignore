@@ -1,0 +1,11 @@
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# outputs
+*.npy
+*.pt
+*.pth
